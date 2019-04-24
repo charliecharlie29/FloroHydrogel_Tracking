@@ -15,4 +15,3 @@ Step 3, would be the merging and plotting part. We use Curve_Merging to merge th
 Finally, there is a video_creation function that creates a video by combining the time lapse images of the gels.
 
 The code is developed by Kuan-Lin Chen, and is used for research purpose, please do not use for commercial purpose.
-The author thanks Dr. Henry Herbol, Dr. Joshua Fern, and Hsiang-Yun Chien for insightsul advices and helps.
